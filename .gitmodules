@@ -1,0 +1,6 @@
+[submodule "external/copernicus_download"]
+	path = external/copernicus_download
+	url = https://github.com/DHI-GRAS/copernicus_download.git
+[submodule "external/wget_provider"]
+	path = external/wget_provider
+	url = https://github.com/DHI-GRAS/wget_provider.git
