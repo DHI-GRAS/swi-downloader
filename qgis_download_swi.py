@@ -1,6 +1,6 @@
 #Definition of inputs and outputs
 #==================================
-##GWA scripts=group
+##SWI Download=group
 ##Download Soil Water Index=name
 ##ParameterSelection|product_param|Soil Water Product|Daily;10 Day Composite
 ##ParameterExtent|extent|Extent to subset after downloading (geographic coordinates)|''|True
